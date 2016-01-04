@@ -17,7 +17,6 @@ Run the default timetracker with
 
 ```
 ruby tt.rb
-
 ```
 
 
